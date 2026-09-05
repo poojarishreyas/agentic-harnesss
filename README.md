@@ -1,6 +1,6 @@
 # deepseek Harness
 
-English | [中文](README.zh.md)
+
 
 deepseek Harness is an open-source Web GUI and agent backend developed by [deepseek AI](https://deepseek.com).
 
